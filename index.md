@@ -1,8 +1,8 @@
-##Professional Summary
+Professional Summary
 
-I am a Postgraduate student and seasoned logistics and transportation professional with over 15 years of combined leadership experience in both civilian and military contexts. My core competencies include supply chain management, organizational leadership, and workforce development. I am committed to aligning talent with business objectives, driving operational efficiency, and promoting inclusive workplace cultures.
+A postgraduate student and logistics and transportation professional with more than 15 years of combined experience in civilian and military settings. Areas of expertise include supply chain management, organizational leadership, and workforce development. Experience includes aligning talent with business goals, supporting operational efficiency, and fostering workplace diversity.
 
-##Work Experience
+Work Experience
 
 FedEx Ground — Operations Area Manager (2014-2018)
 - Designed and implemented onboarding improvements for employees.  
@@ -10,13 +10,13 @@ FedEx Ground — Operations Area Manager (2014-2018)
 - Developed and delivered training sessions for new employees.  
 
 Education
-- M.S., Supply Chain Analytics Management – California State University, San Marcos
+- M.S., Supply Chain Analytics Management – CSU San Marcos
 - M.A., Organizational Leadership — California Baptist University  
 - B.A., Strategic Communication — California Baptist University  
 
 Project Portfolio
 1. Carvana Supply Chain Analysis — Forecasting transportation costs across various shipping modes.
-2. Drunk Driving Prevention Campaign - Predicting drunk driving fatalities in key metropolitan cities: Los Angeles, Chicago, Houston, New York City, and Phoenix, to create impactful safety initiatives and strengthen policies for a safer future!
+2. Drunk Driving Prevention Campaign – Explanatory analysis and forecasting of drunk driving fatalities in key metropolitan cities to develop impactful safety initiatives and reinforce policies for a safer future!
 3. WinCo Grocery Store Case — Analyzed resilience in grocery supply chain management.  
 
 Professional Skills
@@ -25,4 +25,5 @@ Professional Skills
 - Certifications: Lean Six Sigma Yellow Belt, OSHA & Hazmat, Situational Leadership, CDL Class B.  
 
 Links
-- [My GitHub Profile: (https://github.com/DrCH-35) 
+- My GitHub Profile: (https://github.com/DrCH-35)  
+
