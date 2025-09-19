@@ -1,7 +1,9 @@
-Professional Summary
+##Professional Summary
+
 I am a Postgraduate student and seasoned logistics and transportation professional with over 15 years of combined leadership experience in both civilian and military contexts. My core competencies include supply chain management, organizational leadership, and workforce development. I am committed to aligning talent with business objectives, driving operational efficiency, and promoting inclusive workplace cultures.
 
-Work Experience
+##Work Experience
+
 FedEx Ground — Operations Area Manager (2014-2018)
 - Designed and implemented onboarding improvements for employees.  
 - Managed recruitment pipelines for high-volume seasonal roles.  
