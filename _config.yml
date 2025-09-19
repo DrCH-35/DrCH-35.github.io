@@ -1,4 +1,41 @@
 title: "Clarisa G. Hardin"
+name: "Clarisa G. Hardin"
 description: "E-Portfolio Website"
-theme: jekyll-theme-minimal
-logo: assets/img/logo.png
+
+# GitHub Pages project site settings
+url: "https://drch-35.github.io"
+baseurl: "/minimal-mistakes-demo"   # <- must match this repo's name
+
+# Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"    # try "contrast", "air", etc. later
+
+plugins:
+  - jekyll-include-cache
+
+# Sidebar profile card
+author:
+  name: "Clarisa G. Hardin"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "Postgraduate student & logistics/transportation professional"
+  location: "California, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/DrCH-35"
+
+# Global defaults so pages show with profile sidebar
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
