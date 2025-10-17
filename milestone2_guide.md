@@ -40,18 +40,58 @@ theme: jekyll-theme-minimal
 This file allows GitHub Pages to render the Markdown files with the Minimal Jekyll Theme.
 
 ---
+
 ## Step 5 - Creating the Homepage
 I edited the existing **index.md** file to introduce my portfolio.
+
 I added my name, a short biography, and links to my résumé and projects.
 # Welcome to My E-Portfolio
 Hello, my name is Clarisa Hardin, and this e-portfolio showcases my educational journey, leadership experience, and professional growth.
 I then committed the changes to see them appear live on my website.
 
 ---
+
 ## Step 6 — Adding Other Pages
 I created two additional pages:
 **portfolio.md** — to describe my academic and professional projects
 **resume.md** — to provide a brief résumé summary
 Each file uses Markdown headings and links for easy navigation.
+
+---
+
+Step 7 — Previewing Markdown in VS Code
+
+Using Visual Studio Code, I pressed Ctrl + K → V (Windows) to open Markdown Preview in split-view.
+This let me see my formatting updates live.
+
+📖 Reference: VS Code Markdown Preview
+
+---
+
+Step 8 — Creating Subpages
+To organize my work, I created a folder for this guide:
+**/milestone2_guide/**
+
+After committing, the subpage appeared at
+https://DrCH-35.github.io/milestone2_guide
+
+---
+
+Step 9 — Linking Projects on the Homepage
+In my root index.md, I added:
+
+## Projects
+- [Milestone II — How I Created My E-Portfolio](./milestone2_guide/)
+
+This provides easy navigation to my Milestone II page.
+
+---
+
+Step 10 — Verification and Submission
+
+I verified:
+Home Page: https://DrCH-35.github.io
+Subpage: https://DrCH-35.github.io/milestone2_guide both loaded correctly.
+Finally, I downloaded the repository as a ZIP file for submission on Canvas.
 
 ---
