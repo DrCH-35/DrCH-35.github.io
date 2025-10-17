@@ -26,5 +26,8 @@ FedEx Ground — Operations Area Manager (2014-2018)
 
 **Link**
 - [My GitHub Profile](https://github.com/DrCH-35)
+  
+## Projects
+- [Milestone II — How I Created My E-Portfolio](./milestone2_guide/)
 
 -
