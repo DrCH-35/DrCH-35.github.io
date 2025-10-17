@@ -59,7 +59,7 @@ Each file uses Markdown headings and links for easy navigation.
 
 ---
 
-Step 7 — Previewing Markdown in VS Code
+## Step 7 — Previewing Markdown in VS Code
 
 Using Visual Studio Code, I pressed Ctrl + K → V (Windows) to open Markdown Preview in split-view.
 This let me see my formatting updates live.
@@ -68,7 +68,7 @@ This let me see my formatting updates live.
 
 ---
 
-Step 8 — Creating Subpages
+## Step 8 — Creating Subpages
 To organize my work, I created a folder for this guide:
 **/milestone2_guide/**
 
@@ -77,8 +77,8 @@ https://DrCH-35.github.io/milestone2_guide
 
 ---
 
-Step 9 — Linking Projects on the Homepage
-In my root index.md, I added:
+## Step 9 — Linking Projects on the Homepage
+Within my root index.md, I added:
 
 ## Projects
 - [Milestone II — How I Created My E-Portfolio](./milestone2_guide/)
@@ -87,7 +87,7 @@ This provides easy navigation to my Milestone II page.
 
 ---
 
-Step 10 — Verification and Submission
+## Step 10 — Verification and Submission
 
 I verified:
 Home Page: https://DrCH-35.github.io
@@ -95,3 +95,7 @@ Subpage: https://DrCH-35.github.io/milestone2_guide both loaded correctly.
 Finally, I downloaded the repository as a ZIP file for submission on Canvas.
 
 ---
+
+## Final Copy 
+
+<img width="830" height="817" alt="image" src="https://github.com/user-attachments/assets/acd87b5e-ddb2-4842-91af-fd5b7d74aec9" />
