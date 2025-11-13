@@ -30,4 +30,4 @@ FedEx Ground — Operations Area Manager (2014-2018)
 ## Projects
 - [Milestone II — How I Created My E-Portfolio](./milestone2_guide/)
 
--📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
+- 📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
