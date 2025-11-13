@@ -15,8 +15,9 @@ FedEx Ground — Operations Area Manager (2014-2018)
 - B.A., Strategic Communication — California Baptist University  
 
 **Project Portfolio**
-
-📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
+1. Carvana Supply Chain Analysis — Forecasting transportation costs across various shipping modes.
+2. Drunk Driving Prevention Campaign – Explanatory analysis and forecasting of drunk driving fatalities in key metropolitan cities to develop impactful safety initiatives and reinforce policies for a safer future!
+3. WinCo Grocery Store Case — Analyzed resilience in grocery supply chain management.  
 
 **Professional Skills**
 - Languages: Conversational Portuguese, Spanish, French, Korean, and Chinese.  
@@ -29,4 +30,4 @@ FedEx Ground — Operations Area Manager (2014-2018)
 ## Projects
 - [Milestone II — How I Created My E-Portfolio](./milestone2_guide/)
 
--
+-📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
