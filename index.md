@@ -15,7 +15,8 @@ FedEx Ground — Operations Area Manager (2014-2018)
 - B.A., Strategic Communication — California Baptist University  
 
 **Project Portfolio**
-1.📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
+
+📁 [OM 620 — Data Analytics Assignments](om620_assignment​s/)
 
 **Professional Skills**
 - Languages: Conversational Portuguese, Spanish, French, Korean, and Chinese.  
