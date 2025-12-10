@@ -27,13 +27,38 @@ After a few minutes, my site became available at https://DrCH-35.github.io.
 
 ---
 
+### Step 3.5 — Install the Minimal Mistakes Theme
+
+Before customizing my GitHub Pages site, I installed the Minimal Mistakes theme.
+
+1. Went to the Minimal Mistakes GitHub repository:  
+   https://github.com/mmistakes/minimal-mistakes
+
+2. Clicked **Use this template → Create a new repository**.
+
+3. Named the repository **DrCH35.github.io** (my GitHub Pages repo).
+
+4. I made sure the repository was **Public**.
+
+5. After it was created, I verified that it contains the `_config.yml`, `_data`, `_includes`, and layout files automatically.
+
+6. I customized my site by editing:
+   - `_config.yml`
+   - `_data/navigation.yml`
+   - `/index.md`
+   - Any subpages I created.
+
+> This installation step ensured that the Minimal Mistakes theme was properly activated before adding content.
+
+---
+
 ## Step 4 — Setting Up the Theme
 I created a configuration file called _config.yml to define the site theme and title:
 
 title: "C. Hardin's E-Portfolio"
 description: "A professional showcase of my work, leadership, and academic projects."
 theme: jekyll-theme-minimal
-This file allows GitHub Pages to render the Markdown files with the Minimal Jekyll Theme.
+This file enables GitHub Pages to render Markdown files using the Minimal Jekyll Theme.
 
 ---
 
