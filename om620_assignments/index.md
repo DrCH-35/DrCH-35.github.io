@@ -1,22 +1,26 @@
 ---
 layout: page
-title: "OM 620 — Business Analytics"
+title: "OM 620 — Tools and Tech for Analytics"
 ---
 
-# OM 620 — Data Analytics Assignments
+# OM 620 — Business Analytics Assignments
 
 This page summarizes my work for **OM 620: Tools and Technologies for Business Analytics**.  
 The full GitHub repository for these assignments is here:
 
 - [OM-620_Assignments on GitHub](https://github.com/DrCH-35/OM-620_Assignments)
 
-It includes data files, Jupyter notebooks, and an analytical summary combining Assignments 1 and 2.
+It includes data cleaning and preparation files, Exploratory Data Analysis (EDA), Jupyter notebooks and visualizations, and a combined notebook that integrates Assignments 1 and 2.
 
 ---
 
 ## Repository Overview
 
-The repository is organized into three main parts:
+The complete GitHub repository for these assignments is here: 
+
+- [OM 620 Assignments on GitHub](https://github.com/DrCH-35/OM-620_Assignments)
+
+It includes these main parts:
 
 ```text
 OM-620_Assignments/
@@ -25,7 +29,7 @@ OM-620_Assignments/
 │     ├── assignment_1.ipynb
 │     ├── assignment_2.ipynb
 │     └── Assignments_1_and_2_Combined.ipynb
-└── README.md
+└── README.md                # Project overview and findings
 ---
 data/ – Contains datasets used throughout Assignments 1 and 2
 
