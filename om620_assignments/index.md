@@ -33,78 +33,41 @@ notebooks/ – Contains all Jupyter notebooks, including the combined file
 
 README.md – Describes the project structure, workflow, and findings.
 
-Assignment 1 — Exploratory Data Analysis
-
-Assignment 1 focused on Exploratory Data Analysis (EDA):
+## Assignment 1 — Exploratory Data Analysis (EDA)
 
 Loaded and explored the dataset
-
 Cleaned and prepared the data
-
 Generated descriptive statistics
-
 Built visualizations (histograms, scatterplots, boxplots)
-
 Identified key patterns, trends, and outliers
 
+## Assignment 2 — Data Cleaning & Transformation
 Skills demonstrated:
 Python, Pandas, Matplotlib, Seaborn, descriptive statistics, data visualization
 
-Assignment 2 — Data Cleaning & Transformation
-
-Assignment 2 focused on data quality and preprocessing:
-
-Handled missing and duplicate values
-
-Standardized column names and formats
-
-Merged datasets
-
-Prepared structured data for modeling and analysis
-
+## Assignment 2 focused on data quality and preprocessing:
 Skills demonstrated:
 Data cleaning workflows, Pandas transformation tools, reproducible data preparation
 
-Combined Notebook — Assignments 1 & 2
-
+## Combined Notebook — Assignments 1 & 2
 The file Assignments_1_and_2_Combined.ipynb integrates both assignments into a single, continuous workflow:
-
 Raw data → cleaned data → exploratory analysis
-
 Shows an end-to-end analytics pipeline
 
-Provides a professional, consolidated example of OM 620 work
-
-This notebook helps review, present, and showcase an entire project in one file.
-
-Skills Demonstrated Across the Course
-
 Throughout OM 620, I strengthened skills in:
-
 Python programming
-
 Jupyter Notebook
-
 Data cleaning and transformation (Pandas, NumPy)
-
 Exploratory Data Analysis (EDA)
-
 Data visualization (Matplotlib, Seaborn)
-
 Structuring analytics projects
-
 Documentation and clear communication of findings
 
-Importance to My E-Portfolio
 
 This project demonstrates my ability to:
-
 Analyze real datasets end-to-end.
-
 Produce a clean, replicable analytical workflow.s
-
 Organize work professionally using GitHub.
-
 Communicate analytical results effectively.
 
 The OM 620 project supports my broader path in supply chain analytics, data-driven decision-making, and organizational improvement.
