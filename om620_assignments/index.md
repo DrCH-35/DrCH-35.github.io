@@ -19,7 +19,6 @@ The complete GitHub repository for these assignments is here:
 
 It includes these main parts:
 
-```text
 OM-620_Assignments/
 ├── data/                    # Datasets used for Assignments 1 & 2
 ├── notebooks/               # Jupyter notebooks for both assignments
