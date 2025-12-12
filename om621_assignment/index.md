@@ -96,3 +96,8 @@ Combined Python Notebook: Full data preparation, EDA, and feature engineering wo
 Power BI Dashboard: Visual and analytical exploration
 Slides & Storyboard: Communication framework
 3–5 Minute Video Presentation: Executive-level overview of methods and insights
+
+https://github.com/user-attachments/assets/91f52cd9-b89d-4c52-b64c-9de6b46c96e5
+
+
+
